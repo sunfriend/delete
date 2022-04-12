@@ -6,3 +6,8 @@ function add(a, b) {
 function getValue() {
   return variable;
 }
+
+
+function minus(a, b) {
+  return a - b;
+}
